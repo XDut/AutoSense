@@ -1,0 +1,7 @@
+cvzone==1.6.1
+google-genai>=1.31.0,<2.0.0
+numpy>=1.26.4,<3.0.0
+opencv-python>=4.10.0,<5.0.0
+pydantic>=2.8.0,<3.0.0
+python-dotenv>=1.0.1,<2.0.0
+ultralytics>=8.3.170,<9.0.0

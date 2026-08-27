@@ -1,0 +1,114 @@
+[
+    {
+        "timestamp": "2025-07-28_13-12-57",
+        "track_id": 35,
+        "vehicle_type": "Car",
+        "vehicle_color": "White",
+        "vehicle_company": "Maruti Suzuki"
+    },
+    {
+        "timestamp": "2025-07-28_13-12-56",
+        "track_id": 1,
+        "vehicle_type": "Truck",
+        "vehicle_color": "Gray",
+        "vehicle_company": "Ashok Leyland"
+    },
+    {
+        "timestamp": "2025-07-28_13-12-59",
+        "track_id": 7,
+        "vehicle_type": "Truck",
+        "vehicle_color": "White, Red, Gold",
+        "vehicle_company": "Tata"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-00",
+        "track_id": 5,
+        "vehicle_type": "Car",
+        "vehicle_color": "Black and Yellow",
+        "vehicle_company": "Premier"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-02",
+        "track_id": 10,
+        "vehicle_type": "Scooter",
+        "vehicle_color": "Black",
+        "vehicle_company": "Honda"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-05",
+        "track_id": 9,
+        "vehicle_type": "Car",
+        "vehicle_color": "White",
+        "vehicle_company": "Mahindra"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-07",
+        "track_id": 6,
+        "vehicle_type": "Car",
+        "vehicle_color": "White",
+        "vehicle_company": "Maruti Suzuki"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-09",
+        "track_id": 11,
+        "vehicle_type": "Truck",
+        "vehicle_color": "White",
+        "vehicle_company": "Mahindra"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-11",
+        "track_id": 16,
+        "vehicle_type": "Car",
+        "vehicle_color": "Black and Yellow",
+        "vehicle_company": "Hyundai"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-15",
+        "track_id": 13,
+        "vehicle_type": "Car",
+        "vehicle_color": "White",
+        "vehicle_company": "Hyundai"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-17",
+        "track_id": 15,
+        "vehicle_type": "Bus",
+        "vehicle_color": "Red",
+        "vehicle_company": "Tata"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-20",
+        "track_id": 101,
+        "vehicle_type": "Car",
+        "vehicle_color": "White",
+        "vehicle_company": "Citro\u00ebn"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-21",
+        "track_id": 442,
+        "vehicle_type": "Motorcycle",
+        "vehicle_color": "Black",
+        "vehicle_company": "Royal Enfield"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-20",
+        "track_id": 12,
+        "vehicle_type": "Truck",
+        "vehicle_color": "White, Green",
+        "vehicle_company": "Tata"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-26",
+        "track_id": 316,
+        "vehicle_type": "Truck",
+        "vehicle_color": "Blue",
+        "vehicle_company": "Tata"
+    },
+    {
+        "timestamp": "2025-07-28_13-13-27",
+        "track_id": 162,
+        "vehicle_type": "Truck",
+        "vehicle_color": "White",
+        "vehicle_company": "Tata"
+    }
+]

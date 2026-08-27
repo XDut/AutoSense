@@ -1,0 +1,6 @@
+/smart_vehicle_env
+/.trunk
+/.vscode
+/.env
+*.pt
+*.jpg
