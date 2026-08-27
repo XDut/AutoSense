@@ -1,6 +1,6 @@
 # AutoSense - Smart Vehicle Detector
 
-AutoSense combines real-time vehicle detection using YOLOv12 with intelligent analysis powered by gemini-3.5-flash-lite (VLM). The system detects vehicles in a video stream and identifies their type, color and manufacturer, with improved accuracy by auto-estimating the country.
+AutoSense combines real-time vehicle detection using YOLOv12 with intelligent analysis powered by gemini-3.5-flash-lite (VLM). The system detects vehicles in a video stream and identifies vehicle type, color, manufacturer, model, estimated year built, country.
 
 ## Demo
 
